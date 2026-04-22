@@ -1,0 +1,16 @@
+name: rduh
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab=4.3
+  - jupyterlab-spellchecker=0.8.4
+  - matplotlib=3.9
+  - numpy=2.2.2
+  - pandas=2.2.3
+  - pip=25.0
+  - plotly>=5.18
+  - seaborn=0.13.2
+  - simpy=4.1.1
+
+
